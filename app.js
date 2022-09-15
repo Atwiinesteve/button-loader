@@ -45,7 +45,8 @@
       
       `;
 
-    loader.classList.remove('loading')
+    loader.classList.remove('loading');
+    
    });
    
   })
