@@ -24,22 +24,22 @@
            <p>${user.name}</p>
           </div>
           <div class="username">
-           <p>${user.username}</p>
+           <p>USERNAME: ${user.username}</p>
           </div>
           <div class="email">
-           <p>${user.email}</p>
+           <p>EMAIL: ${user.email}</p>
           </div>
           <div class="address">
-           <p>${user.address.street}</p>
+           <p>ADDRESS: ${user.address.street}</p>
           </div>
           <div class="phone">
-           <p>${user.phone}</p>
+           <p>PHONE: ${user.phone}</p>
           </div>
           <div class="website">
-           <p>${user.website}</p>
+           <p>WEBSITE: ${user.website}</p>
           </div>
           <div class="company">
-           <p>${user.company.name}</p>
+           <p>COMPANY: ${user.company.name}</p>
           </div>
          </div>
       
